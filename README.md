@@ -1,6 +1,6 @@
-# ☆MEMO☆
+##### ☆ MEMO
 
-## 1. Python PDF parser and analyzer
+### 1. Python PDF parser and analyzer
 
 * PDFMiner: Python2.0
 
