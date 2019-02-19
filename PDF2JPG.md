@@ -1,5 +1,6 @@
 ## Extract a page from a pdf as a jpeg on WIN7
 
+### Preparation
 #### a. Install pdf2image 
 ```
 pip install pdf2image
