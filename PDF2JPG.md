@@ -1,10 +1,10 @@
 ## Extract a page from a pdf as a jpeg on WIN7
 
-### a.Install pdf2image 
+#### a. Install pdf2image 
 ```
 pip install pdf2image
 ```
-### b.Install poppler
+#### b. Install poppler
  1. Download zip file from [poppler for Windows](http://blog.alivate.com.au/poppler-windows/)
  
  1. Unzip to a new folder in your program files folder. For example: "C:\Program Files (x86)\Poppler".
