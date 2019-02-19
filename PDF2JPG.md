@@ -29,7 +29,7 @@ for page in pages:
 import os
 from pdf2image import convert_from_path
 
-pdf_dir = r"PDF_File"
+pdf_dir = r"PDF_Folder"
 os.chdir(pdf_dir)
 
 for pdf_file in os.listdir(pdf_dir):
